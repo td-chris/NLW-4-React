@@ -13,7 +13,6 @@ export default class MuDocument extends Document {
                     <Main />
                     <NextScript />
                 </body>
-
             </Html>
         );
     }
